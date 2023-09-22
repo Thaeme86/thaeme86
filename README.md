@@ -1,8 +1,6 @@
-###THAEME
-
-
-**Thaeme86/thaeme86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+###THAEME🍷
+-estou cursando pensamento computacional 
+-estudo no alura
+-acompanhem meu progresso
 
 
